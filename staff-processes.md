@@ -16,6 +16,13 @@
   * Technical Issues
   * Giveaways
   * Reporting A Member
-* Greeting
-  * Staff Introductions
-  * Welcoming New Members
+* Greeting new members
+  * Introductions
+    * New members are encouraged to introduce themselves by creating a thread in Visitor Center/Introductions.
+    * All staff are expected to greet new members when they create these introductions.  These greetings can range from:
+      * A simple greeting: _"Hi!  Welcome to our community!"_
+      * A simple greeting with a staff sticker: _"Hi!  Welcome to our community!"_ ![]()
+        * 
+    * Introduction template
+  * Meet The Staff
+  * Social Channel
