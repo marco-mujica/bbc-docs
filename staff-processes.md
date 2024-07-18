@@ -21,7 +21,7 @@
     * New members are encouraged to introduce themselves by creating a thread in Visitor Center/Introductions.
     * All staff are expected to greet new members when they create these introductions.  These greetings can range from:
       * A simple greeting: _"Hi!  Welcome to our community!"_
-      * A simple greeting with a staff sticker: _"Hi!  Welcome to our community!"_ <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.tenor.com/N2NrwskmjuIAAAAi/welcome-home.gif)" width="124.5" height="47.25" />
+      * A simple greeting with a staff sticker: _"Hi!  Welcome to our community!"_ <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.tenor.com/N2NrwskmjuIAAAAi/welcome-home.gif)" width="124" height="47" />
         * 
     * Introduction template
   * Meet The Staff
