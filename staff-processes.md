@@ -25,7 +25,7 @@
       * **Engaging:** _"Welcome!  Wow, your puppy is so cute!  How old is he?"_
       * **Reassuring:** _"Welcome!  Don't worry, we are very beginner-friendly and love showing new players the ropes."_
       * **Informative:** _"Welcome!  If you're interested in our events, check out our schedule in the #Events channel."_
-    * Staff should engage new members' introductions ***at least five times a day.***
+    * Staff should engage ***at least 70%*** of new members' introductions.
       * **NOTE:** This is not a hard-set number.  Just do your best 
     * **Introduction Template:** An optional template for new members to use when they aren't sure what to add to an introduction:
       * `TO-DO`
