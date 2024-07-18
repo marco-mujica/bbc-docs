@@ -19,10 +19,13 @@
 * Greeting new members
   * Introductions
     * New members are encouraged to introduce themselves by creating a thread in Visitor Center/Introductions.
-    * All staff are expected to greet new members when they create these introductions.  These greetings can range from:
-      * A simple greeting: _"Hi!  Welcome to our community!"_
-      * A simple greeting with a staff sticker: _"Hi!  Welcome to our community!"_ ![](https://media.tenor.com/N2NrwskmjuIAAAAi/welcome-home.gif)
-        * filler
-    * Introduction template
+    * All staff are expected to greet new members when they create these introductions.  Some examples:
+      * Simple greeting: _"Hi!  Welcome to our community!"_
+      * Staff sticker: ![](https://media.tenor.com/N2NrwskmjuIAAAAi/welcome-home.gif)
+      * Engaging: _"Welcome!  Wow, your puppy is so cute!  How old is he?"_
+      * Reassuring: _"Welcome!  Don't worry, we are very beginner-friendly and love showing new players the ropes."_
+      * Informative: _"Welcome!  If you're interested in our events, check out our schedule in the #Events channel."_
+    * Introduction template: an optional template for new members to use when they aren't sure what to add to an introduction:
+      * `TO-DO`
   * Meet The Staff
   * Social Channel
