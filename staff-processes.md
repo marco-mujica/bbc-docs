@@ -22,7 +22,7 @@
     * All staff are expected to greet new members when they create these introductions.  These greetings can range from:
       * A simple greeting: _"Hi!  Welcome to our community!"_
       * A simple greeting with a staff sticker: _"Hi!  Welcome to our community!"_ ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.tenor.com/N2NrwskmjuIAAAAi/welcome-home.gif =124x47)
-        * 
+        * filler
     * Introduction template
   * Meet The Staff
   * Social Channel
