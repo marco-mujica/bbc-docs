@@ -8,10 +8,10 @@
     * Bans
 * Promoting
   * Discord
-   * It is optional to have the server invite link in your bio so that those interested can join the server
-   * One quick way to perform a staff duty is to help advertise our server in the Palia Discord. Please ask a senior staff member to show you how to do so
+    * It is optional to have the server invite link in your bio so that those interested can join the server
+    * One quick way to perform a staff duty is to help advertise our server in the Palia Discord. Please ask a senior staff member to show you how to do so
   * In-Game
-   * You are encouraged to invite players in game to join our community! If you pick up a few players while hosting an event or running around, feel free to ask them if they want to join the server. The easiest way to accomplish this is to have them send you a Discord friend request. Then, you can message them the server invite link.
+    * You are encouraged to invite players in game to join our community! If you pick up a few players while hosting an event or running around, feel free to ask them if they want to join the server. The easiest way to accomplish this is to have them send you a Discord friend request. Then, you can message them the server invite link.
 * Server Economy
 * Ticket System
   * Technical Issues
