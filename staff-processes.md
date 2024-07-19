@@ -31,5 +31,5 @@
       * `TO-DO`
   * Meet The Staff
   * Social Channel
-  * Senior Staff additional duties
-      * How to train new staff members
+* Senior Staff additional duties
+  * How to train new staff members
