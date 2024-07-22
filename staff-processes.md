@@ -49,6 +49,7 @@
       * `TO-DO`
   * Meet The Staff
     * When you become staff, a thread will be created for you in our # Meet the Staff channel. An embed will also be created. You will need to write an introduction (you can look at the current introductions for ideas). You will also need to select one image to be used in the embed. You can let a Head Staff or Manager know which picture to use so they can put it into the embed for you.
+      * **NOTE:** You __do not__ need to provide an IRL image of yourself.  It can be of your Palia character, your social PFP, or other.
   * Social Channel
 * Staff Duties
   * Staff members are newly appointed staff members (less than 1 month)
