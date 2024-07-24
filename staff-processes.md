@@ -50,7 +50,6 @@
   * ### Meet The Staff
     * When you become staff, a thread will be created for you in our # Meet the Staff channel. An embed will also be created. You will need to write an introduction (you can look at the current introductions for ideas). You will also need to select one image to be used in the embed. You can let a Head Staff or Manager know which picture to use so they can put it into the embed for you.
       * **NOTE:** You __do not__ need to provide an IRL image of yourself.  It can be of your Palia character, your social PFP, or other.
-  * Social Channel
 * ## Staff Duties
   * Staff members are newly appointed staff members (less than 1 month)
   * As far as tasks and duties all Senior Staff duties apply (look at senior staff message) but with more leniency towards not fulfilling every point. Take this time as a training period and getting a groove before becoming a full pledged staff member.
@@ -68,7 +67,6 @@
   * Senior Staff are required to offer support to Head Staff in training new Staff (ex. Bans/Mutes/Rules/Advertising/Introductions/Welcomes/etc....)
   * Senior Staff MUST answer to Introduction messages (a lengthy message is not obligatory but we must set a good example). We don't except every one but at least a good 70%.
   * Senior Staff MUST host at least 1 event per month (can be of any kind even not Palia related)
-  * Senior Staff are expected to welcome new members in res social (same rules apply this is a requirement only for when you are online and see them )
   * Suggestive feedback
   * Helping with advertisements when possible
   * Moderation of VC's and Chat when an issue occurs (AutoMod already does half of the work in chats but it can ignore some and does not take actions)
