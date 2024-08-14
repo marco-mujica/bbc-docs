@@ -2,6 +2,7 @@
 * ## Moderating
   * ### Text
     * Warnings
+	  * Test
     * Bans
   * ### VC
     * Warnings
