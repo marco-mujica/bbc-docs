@@ -1,8 +1,9 @@
 # __Staff Processes__
+
 * ## Moderating
   * ### Text
-    * Warnings
-	  * Test
+    * Warnings - grounds for official warnings
+      * Back-and-forth arguments
     * Bans
   * ### VC
     * Warnings
@@ -76,4 +77,3 @@
     * Failure to comply with one of these points will result in a warning and be followed up by retirement if no improvements are made.
     * IRL comes first always 100%, if you wish to take a leave of absence at any time you may; just warn Head Staff or Managers first.
     * If you are unable to fulfill the duties for longer periods of times (more than 1 month) you can ask to be retired and can come back when life gets easier.
-
